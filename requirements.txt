@@ -3,4 +3,3 @@ numpy==1.25.2
 streamlit
 scikit-learn
 pip==23.1.2
-pickle
